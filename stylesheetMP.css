@@ -1,0 +1,75 @@
+<style>
+a {
+    color: black;
+    }
+
+body {
+  background: url(http://bgfons.com/uploads/paper/paper_texture3868.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+    position: relative;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+  h1 {
+      font-size: 65px;
+      color: white;
+      }
+  ul {
+      padding: 10px;
+      }
+  li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      }
+
+.headerimage {
+    object-fit: cover;
+    opacity: 0.8;
+    filter: alpha(opacity=30);
+    width: 1500px;
+    height: 400px;
+    overflow: hidden;
+    -webkit-filter: sepia(100%);
+    filter: sepia(70%);
+}
+
+.crop img {
+    width: 400px;
+    height: 300px;
+    margin: -100px 0 0 -100px;
+}
+
+.image1 {
+      width: 100%;
+      border: 10px solid #AB9688;
+      border-radius: 250px;
+      box-shadow: 8px 8px 8px 3px gray;
+      width: 100%;
+      border: 7px solid #8a4419;
+      border-style: inset;
+    }
+
+.image2 {
+    position: absolute;
+    top: 550px;
+    right: 700px;
+    width: 200px;
+    border-radius: 180px;
+    box-shadow: 8px 8px 8px 3px gray;
+    width: 100%;
+    border: 3px solid #8a4419;
+    border-style: inset;
+    }
+
+</style>
