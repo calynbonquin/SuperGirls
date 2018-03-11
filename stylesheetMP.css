@@ -11,6 +11,13 @@ body {
   background-size: cover;
 }
 
+.content {
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 180px;
+}
+
 .container {
     position: relative;
 }
@@ -24,6 +31,7 @@ body {
   h1 {
       font-size: 65px;
       color: white;
+      padding-left: 30px;
       }
   ul {
       padding: 10px;
@@ -33,6 +41,14 @@ body {
       padding: 0px 10px 0px 10px;
       }
 
+.mainquote {
+    position: absolute;
+    top: -450px;
+    right: -10px;
+    font-size: 40px;
+    }
+
+/*images*/
 .headerimage {
     object-fit: cover;
     opacity: 0.8;
@@ -62,8 +78,8 @@ body {
 
 .image2 {
     position: absolute;
-    top: 550px;
-    right: 700px;
+    top: -700px;
+    right: -100px;
     width: 200px;
     border-radius: 180px;
     box-shadow: 8px 8px 8px 3px gray;
@@ -72,4 +88,6 @@ body {
     border-style: inset;
     }
 
+.socialbuttons {
+  bottom: 50px;  }
 </style>
