@@ -1,4 +1,8 @@
 <style>
+header {
+  text-align: center;
+  color: white;
+}
 a {
     color: black;
     }
@@ -9,6 +13,14 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.links {
+    padding-top: 10px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+    text-align: center;
+    color: black;
 }
 
 .content {
@@ -79,7 +91,7 @@ body {
 .image2 {
     position: absolute;
     top: -700px;
-    right: -100px;
+    right: -200px;
     width: 200px;
     border-radius: 180px;
     box-shadow: 8px 8px 8px 3px gray;
