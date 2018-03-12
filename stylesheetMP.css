@@ -17,7 +17,7 @@ body {
 
 .links {
     padding-top: 10px;
-    padding-bottom: 80px;
+    padding-bottom: 100px;
     padding-left: 50px;
     text-align: center;
     color: black;
@@ -50,7 +50,7 @@ body {
 
 .mainquote {
     position: absolute;
-    top: 450px;
+    top: 515px;
     right: -10px;
     font-size: 24px;
     }
@@ -65,8 +65,8 @@ body {
     overflow: hidden;
     -webkit-filter: sepia(100%);
     filter: sepia(70%);
-    margin: 40px 0px 0px 0px;
-    border: 10px solid black;
+    margin: 30px 0px 0px 0px;
+    border: 7px solid black;
     border-radius: 20px;
 }
 
