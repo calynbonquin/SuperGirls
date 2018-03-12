@@ -53,6 +53,12 @@ body {
     margin: 0 auto;
   }
 
+  @media (max-width: 500px) {
+    body {
+      background: white;
+    }
+  }
+
 .mainquote {
     position: absolute;
     top: 515px;
