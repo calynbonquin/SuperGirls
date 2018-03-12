@@ -80,6 +80,11 @@ body {
   height: auto;
   }
 
+.malala {
+    width: 300px;
+    height: auto;
+  }
+
 /*polaroid CSS*/
 div.pankhurstPOL {
   width: 80%;
@@ -184,6 +189,18 @@ div.container {
 }
 
 div.merkelPOL {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+div.malalaPOL {
   width: 80%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
