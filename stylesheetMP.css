@@ -37,6 +37,8 @@ body {
       font-size: 65px;
       color: white;
       padding-left: 30px;
+      text-align: center;
+      color: white;
       }
   ul {
       padding: 10px;
@@ -63,6 +65,9 @@ body {
     overflow: hidden;
     -webkit-filter: sepia(100%);
     filter: sepia(70%);
+    margin: 40px 0px 0px 0px;
+    border: 10px solid black;
+    border-radius: 20px;
 }
 
 .crop img {
