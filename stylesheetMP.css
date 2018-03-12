@@ -23,13 +23,6 @@ body {
     color: black;
 }
 
-.content {
-    padding-top: 10px;
-    padding-right: 50px;
-    padding-bottom: 50px;
-    padding-left: 180px;
-}
-
 .container {
     position: relative;
 }
@@ -55,9 +48,9 @@ body {
 
 .mainquote {
     position: absolute;
-    top: -450px;
+    top: 450px;
     right: -10px;
-    font-size: 40px;
+    font-size: 24px;
     }
 
 /*images*/
@@ -90,8 +83,8 @@ body {
 
 .image2 {
     position: absolute;
-    top: -700px;
-    right: -200px;
+    top: 650px;
+    right: 550px;
     width: 200px;
     border-radius: 180px;
     box-shadow: 8px 8px 8px 3px gray;
