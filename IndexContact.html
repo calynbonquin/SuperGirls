@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Hundred years of women's right to vote</title>
-  <link rel="stylesheet" type="text/css" href="stylesheetMP.css" />
+  <link rel="stylesheet" type="text/css" href="stylesheetcontact.css" />
   <link href='css/bootstrap.css' rel='stylesheet'>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -23,19 +23,29 @@
     <li><a href="#">Contact us</a></li>
 </ul>
 
+<div class="container">
+  <form action="action_page.php">
 
-<p>
-<h1>Carolyn Bonquin</h1>
-<h3>MA Investigative Reporting</h2>
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
+    <label for="Enquiries">Enquiries</label>
+    <select id="enquiry" name="enquiry">
+      <option value="Suggestions">Suggestions</option>
+      <option value="Questions">Questions</option>
+      <option value="Otherconcerns">Other concerns</option>
+    </select>
 
-<h1>Charmion Akande</h1>
-<h3>MSc Creative Industries Management</h2>
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
+    <input type="submit" value="Submit">
 
-<h1>Flora Erdelyi</h1>
-<h3>BSc Economics and Business</h2>
+  </form>
+</div>
 
 <div id='social-buttons'>
   <div class="socialbuttons">
@@ -51,4 +61,3 @@
 </div>
   </body>
   </html>
-
