@@ -31,12 +31,29 @@ body {
       }
       ul {
           padding: 10px;
+          text-align: center;
           }
       li {
           display: inline;
           padding: 0px 10px 0px 10px;
           }
 
+h2 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+    }
+
+.textQ
+{
+    font-size: 18px;
+    color: black;
+    font-family:  Arial, Helvetica, sans-serif;
+    width: 1200px;
+    text-align: justify;
+    margin: auto;
+    }
 .headerimage {
     object-fit: cover;
     opacity: 0.8;
