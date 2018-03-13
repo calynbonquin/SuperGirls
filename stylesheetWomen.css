@@ -32,6 +32,7 @@ body {
       display: inline;
       padding: 0px 10px 0px 10px;
       }
+      
   article {
         max-width: 500px;
         padding: 20px;
@@ -138,6 +139,7 @@ body {
 .text {
  color: Black;
  font-size: 20px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -191,6 +193,7 @@ div.container {
 .text {
  color: Black;
  font-size: 20px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -243,6 +246,7 @@ div.fawcettPOL {
 .text {
  color: Black;
  font-size: 0px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -294,6 +298,7 @@ div.container {
 .text {
  color: Black;
  font-size: 20px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -345,6 +350,7 @@ div.container {
 .text {
  color: Black;
  font-size: 18px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -396,6 +402,7 @@ div.container {
 .text {
  color: Black;
  font-size: 20px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -447,6 +454,7 @@ div.container {
 .text {
  color: Black;
  font-size: 20px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -499,6 +507,7 @@ div.container {
 .text {
  color: Black;
  font-size: 20px;
+ font-family:  Arial, Helvetica, sans-serif;
  position: absolute;
  overflow: hidden;
  top: 50%;
