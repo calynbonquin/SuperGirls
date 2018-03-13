@@ -34,11 +34,10 @@ body {
     font-size: 18px;
 }
   h1 {
-      font-size: 65px;
+      font-size: 60px;
       color: white;
-      padding-left: 30px;
-      text-align: center;
-      color: white;
+      width: 1200px;
+      padding: 0px 20px 0px 10px;
       }
   ul {
       padding: 10px;
