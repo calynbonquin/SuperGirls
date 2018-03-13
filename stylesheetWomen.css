@@ -67,57 +67,45 @@ body {
 
 /*images*/
 .pankhurst {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .davison {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .fawcett {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .singh {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .sennett {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .obama {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .merkel {
-  width: 300px;
+  width: 400px;
   height: auto;
   }
 
 .malala {
-    width: 300px;
-    height: auto;
+    width: 410px;
+    height: 450px;
   }
 
-/*polaroid CSS*/
-div.pankhurstPOL {
-  width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
-}
-
-div.container {
-  text-align: center;
-  padding: 10px 20px;
-}
 /*Hover CSS*/
 .container {
  position: relative;
@@ -254,7 +242,7 @@ div.fawcettPOL {
 
 .text {
  color: Black;
- font-size: 20px;
+ font-size: 0px;
  position: absolute;
  overflow: hidden;
  top: 50%;
@@ -309,7 +297,7 @@ div.container {
  position: absolute;
  overflow: hidden;
  top: 50%;
- left: 50%;
+ left: 80%;
  transform: translate(-50%, -50%);
  -ms-transform: translate(-50%, -50%);
 }
@@ -356,7 +344,7 @@ div.container {
 
 .text {
  color: Black;
- font-size: 20px;
+ font-size: 18px;
  position: absolute;
  overflow: hidden;
  top: 50%;
