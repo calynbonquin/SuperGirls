@@ -1,4 +1,5 @@
-<style>a {
+<style>
+a {
     color: black;
     }
 
@@ -9,7 +10,6 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-
 
 .container {
     position: relative;
@@ -98,35 +98,6 @@ div.container {
   padding: 10px 20px;
 }
 
-/*overlayCSS*/
-div.davison {
-  position: absolute;
-  bottom: 100%;
-  left: 0;
-  right: 0;
-  background-color: #FFFFFF;
-  overflow: hidden;
-  width: 100%;
-  height:0;
-  transition: .5s ease;
-}
-
-.container:hover .davison {
-  bottom: 0;
-  height: 100%;
-}
-
-.pp {
-  white-space: nowrap;
-  color: 000000;
-  font-size: 20px;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-}
 
 div.davisonPOL {
   width: 80%;

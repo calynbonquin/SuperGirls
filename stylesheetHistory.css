@@ -1,5 +1,8 @@
 <style>
-
+title {
+  text-align: center;
+  color: white;
+}
 a {
     color: black;
     }
@@ -28,6 +31,7 @@ body {
       }
   ul {
       padding: 10px;
+      text-align: center;
       }
   li {
       display: inline;
