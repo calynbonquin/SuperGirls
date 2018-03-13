@@ -57,6 +57,13 @@ body {
     body {
       background: white;
     }
+    h1 {
+      font-size: 36px;
+    }
+    li {
+      display: block;
+      padding: 0.50px
+    }
   }
 
 .mainquote {
