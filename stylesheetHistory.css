@@ -27,6 +27,7 @@ body {
 }
   h1 {
       font-size: 65px;
+      font-family:  Arial, Helvetica, sans-serif;
       color: white;
       }
   ul {
@@ -45,6 +46,9 @@ body {
     overflow: hidden;
     -webkit-filter: sepia(100%);
     filter: sepia(70%);
+    margin: 30px 0px 0px 0px;
+    border: 7px solid black;
+    border-radius: 20px;
 }
 
 .crop img {
