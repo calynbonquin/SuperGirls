@@ -106,7 +106,7 @@ body {
 
 .image2 {
     position: absolute;
-    top: 650px;
+    top: 750px;
     right: 550px;
     width: 200px;
     border-radius: 180px;
@@ -114,6 +114,20 @@ body {
     width: 100%;
     border: 3px solid #8a4419;
     border-style: inset;
+    }
+
+.intro {
+    position: right;
+    top: 90px;
+    width: 1000px;
+    }
+
+
+.mainquote {
+    position: right;
+    top: 950px;
+    right: 50px;
+    width: 600px;
     }
 
 .socialbuttons {
