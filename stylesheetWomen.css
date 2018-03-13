@@ -97,7 +97,7 @@ div.container {
   text-align: center;
   padding: 10px 20px;
 }
-container {
+.container {
  position: relative;
  width: 50%;
 }
@@ -126,7 +126,6 @@ container {
 }
 
 .text {
- white-space: nowrap;
  color: white;
  font-size: 20px;
  position: absolute;
@@ -136,6 +135,7 @@ container {
  transform: translate(-50%, -50%);
  -ms-transform: translate(-50%, -50%);
 }
+
 
 div.davisonPOL {
   width: 80%;
