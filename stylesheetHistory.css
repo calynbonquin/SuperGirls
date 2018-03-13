@@ -29,14 +29,13 @@ body {
       font-size: 65px;
       color: white;
       }
-  ul {
-      padding: 10px;
-      text-align: center;
-      }
-  li {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-      }
+      ul {
+          padding: 10px;
+          }
+      li {
+          display: inline;
+          padding: 0px 10px 0px 10px;
+          }
 
 .headerimage {
     object-fit: cover;
