@@ -69,41 +69,73 @@ body {
 .pankhurst {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .davison {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .fawcett {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .singh {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .sennett {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .obama {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .merkel {
   width: 400px;
   height: auto;
+  border-radius: 50px;
+  box-shadow: 8px 8px 8px 3px gray;
+  border: 3px solid #8a4419;
+  border-style: inset;
   }
 
 .malala {
     width: 410px;
     height: 450px;
+    border-radius: 50px;
+    box-shadow: 8px 8px 8px 3px gray;
+    border: 3px solid #8a4419;
+    border-style: inset;
   }
 
 /*Hover CSS*/
